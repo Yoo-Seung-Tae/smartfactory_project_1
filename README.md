@@ -1,9 +1,4 @@
-# 🚀 PLC & HMI 기반 ABC 분석 자동 분류 시스템
-
-![PLC](https://img.shields.io/badge/PLC-XG5000-blue)
-![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey)
-![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-%E2%9C%94-green)
-![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-%E2%9C%94-orange)
+# 🚀 국외 뉴스데이터 크롤링 및 토픽모델링을 이용한 인공지능 분야 동향 분석
 
 ---
 
