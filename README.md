@@ -19,10 +19,10 @@
 ## 👥 팀 구성 및 역할 분담
 | 이름 | 역할 | 주요 업무 |  GitHub 프로필 |
 |------|------|----------|------------|
-| **유승태** | 팀장 | 주제선정, LDA토픽모델링 모델 구축 및 분석 시행, 발표 |(https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae)  |
-| **고찬국** | 팀원 | 웹 크롤링(CNN 뉴스) 시행, 토픽모델링 결과 분석 |  |
-| **최창일** | 팀원 | 웹 크롤링(ABC 뉴스) 시행, 토픽모델링 결과 분석 |  |
-| **이혜린** | 팀원 | 선행연구 시행 및 자료 작성, PPT 작성 |  |
+| **유승태** | 팀장 | 주제선정, LDA토픽모델링 모델 구축 및 분석 시행, 발표 | (https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
+| **고찬국** | 팀원 | 웹 크롤링(CNN 뉴스) 시행, 토픽모델링 결과 분석 | (https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ChankookKo) |
+| **최창일** | 팀원 | 웹 크롤링(ABC 뉴스) 시행, 토픽모델링 결과 분석 | (https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ckddlf050) |
+| **이혜린** | 팀원 | 선행연구 시행 및 자료 작성, PPT 작성 | (https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyerin00) |
 
 ---
 
