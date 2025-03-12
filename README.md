@@ -3,7 +3,8 @@
 ---
 
 ## 📌 프로젝트 개요 및 기대효과
-- 본 프로젝트는 **최근 2년간의 인공지능 관련 미국 뉴스 기사(ABC, CNN뉴스)를 크롤링하여 데이터 수집 후, 텍스트마이닝(LDA 토픽모델링)을 통하여 인공지능의 발전 방향을 분석하는 것**을 목표로 합니다. 이를 위해 **파이썬을 기반으로 프로젝트를 진행하였고, BeautifulSoup, selenium을 사용해 크롤링을, Gensim을 통하여 LDA 토픽모델링을 수행하였습니다.**  
+- 본 프로젝트는 **최근 2년간의 인공지능 관련 미국 뉴스 기사(ABC, CNN뉴스)를 크롤링하여 데이터 수집 후, 텍스트마이닝(LDA 토픽모델링)을 통하여 인공지능의 발전 방향을 분석하는 것**을 목표로 합니다.
+- 이를 위해 **파이썬을 기반으로 프로젝트를 진행하였고, BeautifulSoup, selenium을 사용해 크롤링을, Gensim을 통하여 LDA 토픽모델링을 수행하였습니다.**  
 
 - 본 프로젝트를 통하여 **글로벌 AI 동향 파악, 데이터 기반의 트렌드 파악 결과 도출, 국내 산업에 적용 및 탐구 가능성 향상**의 효과를 기대합니다.
   
@@ -44,10 +45,22 @@
        
 - **LDA 토픽모델링 분석 결과**
     - **CNN 뉴스**: 10개의 토픽 도출
+        - Topic 1. Apple(디지털 전환) - #iPhone, #workers, #intelligence
+        - Topic 2. 에너지 분야 지속 가능성 - #energy, #electricity
+        - Topic 3. 기술, 예술, 사회의 연결 - #Da, #art, #search
+        - Topic 4. 정치, 법률, 사회적 변화 - #election, #law, #political
+        - Topic 5. 기술, 경제의 세계화 - #Nvidia, #investors, #billion
+        - Topic 6. AI, 로봇이 바꾸는 미래 - #robot, #chips, #experience
+        - Topic 7. 금융 분야에서의 AI 규제 - #financial, #Yellen, #regulators
+        - Topic 8. 기술 경쟁과 지속 가능한 발전 - #platforms, #innovation, #device
+        - Topic 9. AI: 교육의 디지털 전환 - #school, #speech, #YouTube
+        - Topic 10. AI 보안의 중요성 - #security, #school, #local
     - **ABC 뉴스**: 4개의 토픽 도출
         - Topic 1. AI분야의 여성 인력 양성 - #singh, #girls
+        - Topic 2. AI 관련 기술의 발전과 도입 - #wayfair, #openAi, #microsoft
+        - Topic 3. AI와 사회&법률적 이슈 - #Merger, #rulings, #FTC
+        - Topic 4. AI와 헬스케어 - #Health, #body, #Tesla, #Travel
 
-      
 - **본 분석의 한계점**
     1. 간헐적으로 삭제되는 등 변동성이 높은 데이터이다 보니 누락된 부분이 있을 것으로 추정
     2. 기술적 진보나 발전의 측면보다 정치적 사회적인 측면이 더 강조되어 있음
