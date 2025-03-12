@@ -17,12 +17,13 @@
 ---
 
 ## 👥 팀 구성 및 역할 분담
-| 이름 | 역할 | 주요 업무 | 주요 기술 | GitHub 프로필 |
-|------|------|----------|----------|------------|
-| **유승태** | 팀장 | 일정 관리, PLC 회로 설계 및 프로그래밍 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
-| **고찬국** | 팀원 | 제어 회로 설계 및 프로그램 작성 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
-| **이혜린** | 팀원 | HMI 화면 설계 및 이벤트 처리 로직 구현 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyerin00)](https://github.com/KYEONGJUN-LEE) |
-| **최창일** | 팀원 | HMI 보조 작업 및 발표 자료 제작 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) |  |
+| 이름 | 역할 | 주요 업무 |  GitHub 프로필 |
+|------|------|----------|------------|
+| **유승태** | 팀장 | 주제선정, LDA토픽모델링 모델 구축 및 분석 시행, 발표 |(https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae)  |
+| **고찬국** | 팀원 | 웹 크롤링(CNN 뉴스) 시행, 토픽모델링 결과 분석 |  |
+| **최창일** | 팀원 | 웹 크롤링(ABC 뉴스) 시행, 토픽모델링 결과 분석 |  |
+| **이혜린** | 팀원 | 선행연구 시행 및 자료 작성, PPT 작성 |  |
+
 ---
 
 ## 📚 개발 일정
